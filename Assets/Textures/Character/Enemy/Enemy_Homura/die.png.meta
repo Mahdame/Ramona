@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: 254b4cf3a6ee3f14d8eab5ea0303880a
+timeCreated: 1473190286
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: die_0
+    21300002: die_1
+    21300004: die_2
+    21300006: die_3
+    21300008: die_4
+    21300010: die_5
+    21300012: die_6
+    21300014: die_7
+    21300016: die_8
+    21300018: die_9
+    21300020: die_10
+    21300022: die_11
+    21300024: die_12
+    21300026: die_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: die_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 148
+        width: 107
+        height: 90
+      alignment: 9
+      pivot: {x: 0.24, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.68, y: 38.699997}
+        - {x: -25.68, y: 23.699997}
+        - {x: -25.68, y: -51.300003}
+        - {x: 24.32, y: -51.300003}
+        - {x: 34.32, y: -32.300003}
+        - {x: 34.32, y: 36.699997}
+        - {x: 27.32, y: 38.699997}
+    - name: die_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 148
+        width: 107
+        height: 90
+      alignment: 9
+      pivot: {x: 0.24, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.320007, y: -22.300003}
+        - {x: 31.320007, y: -22.300003}
+        - {x: 35.320007, y: -22.300003}
+        - {x: 40.320007, y: -20.300003}
+        - {x: 40.320007, y: 28.699997}
+        - {x: -20.679993, y: 28.699997}
+        - {x: -25.679993, y: 11.699997}
+        - {x: -25.679993, y: -43.300003}
+        - {x: -22.679993, y: -50.300003}
+        - {x: -19.679993, y: -51.300003}
+        - {x: 33.320007, y: -51.300003}
+        - {x: 37.320007, y: -46.300003}
+        - {x: 38.320007, y: -34.300003}
+        - {x: 36.320007, y: -23.300003}
+    - name: die_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 147
+        width: 107
+        height: 90
+      alignment: 9
+      pivot: {x: 0.24, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.679993, y: 24.699997}
+        - {x: -19.679993, y: 16.699997}
+        - {x: -25.679993, y: -13.300003}
+        - {x: -25.679993, y: -41.300003}
+        - {x: -20.679993, y: -51.300003}
+        - {x: 34.320007, y: -51.300003}
+        - {x: 34.320007, y: -1.300003}
+        - {x: 23.320007, y: 24.699997}
+    - name: die_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 147
+        width: 107
+        height: 90
+      alignment: 9
+      pivot: {x: 0.24, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.320007, y: 16.699997}
+        - {x: 21.320007, y: 23.699997}
+        - {x: 19.320007, y: 24.699997}
+        - {x: -18.679993, y: 24.699997}
+        - {x: -25.679993, y: 6.699997}
+        - {x: -25.679993, y: -33.300003}
+        - {x: -15.679993, y: -37.300003}
+        - {x: -13.679993, y: -37.300003}
+        - {x: -17.679993, y: -39.300003}
+        - {x: -22.679993, y: -51.300003}
+        - {x: 30.320007, y: -51.300003}
+        - {x: 34.320007, y: -30.300003}
+        - {x: 34.320007, y: -9.300003}
+    - name: die_4
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 147
+        width: 107
+        height: 90
+      alignment: 9
+      pivot: {x: 0.24, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.679993, y: 23.699997}
+        - {x: -25.679993, y: -51.300003}
+        - {x: 28.320007, y: -51.300003}
+        - {x: 28.320007, y: 23.699997}
+    - name: die_5
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 147
+        width: 107
+        height: 90
+      alignment: 9
+      pivot: {x: 0.24, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.679993, y: 23.699997}
+        - {x: -25.679993, y: -51.300003}
+        - {x: 25.320007, y: -51.300003}
+        - {x: 27.320007, y: -49.300003}
+        - {x: 27.320007, y: -4.300003}
+        - {x: 23.320007, y: 23.699997}
+    - name: die_6
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 147
+        width: 107
+        height: 90
+      alignment: 9
+      pivot: {x: 0.24, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.679993, y: 22.699997}
+        - {x: -25.679993, y: 3.699997}
+        - {x: -25.679993, y: -51.300003}
+        - {x: 28.320007, y: -51.300003}
+        - {x: 28.320007, y: 6.699997}
+        - {x: 25.320007, y: 22.699997}
+    - name: die_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 27
+        width: 107
+        height: 90
+      alignment: 9
+      pivot: {x: 0.24, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.68, y: 22.699997}
+        - {x: -23.68, y: 7.699997}
+        - {x: -25.68, y: -1.300003}
+        - {x: -25.68, y: -51.300003}
+        - {x: 27.32, y: -51.300003}
+        - {x: 37.32, y: -37.300003}
+        - {x: 37.32, y: 18.699997}
+        - {x: 26.32, y: 22.699997}
+    - name: die_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 26
+        width: 107
+        height: 90
+      alignment: 9
+      pivot: {x: 0.24, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.320007, y: 17.699997}
+        - {x: 14.320007, y: 17.699997}
+        - {x: -0.6799927, y: 14.699997}
+        - {x: -25.679993, y: -23.300003}
+        - {x: -25.679993, y: -51.300003}
+        - {x: 43.320007, y: -51.300003}
+        - {x: 51.320007, y: -29.300003}
+        - {x: 51.320007, y: 15.699997}
+    - name: die_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 24
+        width: 107
+        height: 90
+      alignment: 9
+      pivot: {x: 0.24, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.6799927, y: 8.699997}
+        - {x: -25.679993, y: -21.300003}
+        - {x: -25.679993, y: -51.300003}
+        - {x: 59.320007, y: -51.300003}
+        - {x: 71.32001, y: -32.300003}
+        - {x: 71.32001, y: 7.699997}
+        - {x: 70.32001, y: 8.699997}
+    - name: die_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 24
+        width: 107
+        height: 90
+      alignment: 9
+      pivot: {x: 0.24, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.320007, y: 1.699997}
+        - {x: 20.320007, y: -0.30000305}
+        - {x: 8.320007, y: -4.300003}
+        - {x: -17.679993, y: -23.300003}
+        - {x: -25.679993, y: -36.300003}
+        - {x: -25.679993, y: -47.300003}
+        - {x: -4.6799927, y: -51.300003}
+        - {x: 70.32001, y: -51.300003}
+        - {x: 79.32001, y: -38.300003}
+        - {x: 79.32001, y: -7.300003}
+        - {x: 69.32001, y: 1.699997}
+    - name: die_11
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 22
+        width: 107
+        height: 90
+      alignment: 9
+      pivot: {x: 0.24, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.6799927, y: -4.300003}
+        - {x: -25.679993, y: -10.300003}
+        - {x: -25.679993, y: -46.300003}
+        - {x: -1.6799927, y: -51.300003}
+        - {x: 81.32001, y: -51.300003}
+        - {x: 81.32001, y: -4.300003}
+    - name: die_12
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 21
+        width: 107
+        height: 90
+      alignment: 9
+      pivot: {x: 0.24, y: 0.57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.320007, y: -3.300003}
+        - {x: -25.679993, y: -31.300003}
+        - {x: -25.679993, y: -51.300003}
+        - {x: 81.32001, y: -51.300003}
+        - {x: 81.32001, y: -10.300003}
+        - {x: 72.32001, y: -3.300003}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

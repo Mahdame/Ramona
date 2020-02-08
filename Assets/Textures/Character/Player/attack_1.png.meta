@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: c8b81d4ed230d5a4c98652c7c4b78d42
+timeCreated: 1472691669
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: attack_1_0
+    21300002: attack_1_1
+    21300004: attack_1_2
+    21300006: attack_1_3
+    21300008: attack_1_4
+    21300010: attack_1_5
+    21300012: attack_1_6
+    21300014: attack_1_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: attack_1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 55
+        height: 82
+      alignment: 9
+      pivot: {x: 0.27687988, y: 0.3645989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.228394, y: 35.10289}
+        - {x: -15.228394, y: -29.89711}
+        - {x: 18.771606, y: -29.89711}
+        - {x: 39.771606, y: 6.10289}
+        - {x: 39.771606, y: 35.10289}
+    - name: attack_1_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 4
+        width: 36
+        height: 82
+      alignment: 9
+      pivot: {x: 0.2768799, y: 0.3645989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.0323257, y: 52.10289}
+        - {x: -0.96767426, y: 49.10289}
+        - {x: -9.967674, y: 36.10289}
+        - {x: -9.967674, y: 4.10289}
+        - {x: -8.967674, y: 0.102890015}
+        - {x: -1.9676743, y: -0.89711}
+        - {x: 0.032325745, y: -0.89711}
+        - {x: -5.9676743, y: -0.89711}
+        - {x: -9.967674, y: -4.89711}
+        - {x: -9.967674, y: -24.89711}
+        - {x: -6.9676743, y: -29.89711}
+        - {x: 26.032326, y: -29.89711}
+        - {x: 26.032326, y: 52.10289}
+    - name: attack_1_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4
+        width: 55
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5265619, y: 0.3645989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.960907, y: 47.10289}
+        - {x: -28.960907, y: -1.89711}
+        - {x: -10.960907, y: -29.89711}
+        - {x: 14.039093, y: -29.89711}
+        - {x: 20.039093, y: -27.89711}
+        - {x: 26.039093, y: -7.89711}
+        - {x: 26.039093, y: 27.10289}
+        - {x: -1.960907, y: 47.10289}
+    - name: attack_1_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 4
+        width: 56
+        height: 82
+      alignment: 9
+      pivot: {x: 0.4542754, y: 0.3645989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.439423, y: 51.10289}
+        - {x: -25.439423, y: -2.89711}
+        - {x: -11.439423, y: -29.89711}
+        - {x: 9.560577, y: -29.89711}
+        - {x: 18.560577, y: -25.89711}
+        - {x: 30.560577, y: 2.10289}
+        - {x: 30.560577, y: 22.10289}
+        - {x: 0.5605774, y: 51.10289}
+    - name: attack_1_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 4
+        width: 77
+        height: 82
+      alignment: 9
+      pivot: {x: 0.16304313, y: 0.37528843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.44568, y: 51.22635}
+        - {x: -2.5543213, y: 51.22635}
+        - {x: -12.554321, y: 41.22635}
+        - {x: -12.554321, y: -30.773651}
+        - {x: 64.44568, y: -30.773651}
+        - {x: 64.44568, y: 24.226349}
+        - {x: 45.44568, y: 45.22635}
+    - name: attack_1_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 4
+        width: 71
+        height: 82
+      alignment: 9
+      pivot: {x: 0.12050102, y: 0.3645989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.444427, y: -1.89711}
+        - {x: 44.444427, y: 23.10289}
+        - {x: 32.444427, y: 30.10289}
+        - {x: -4.5555725, y: 30.10289}
+        - {x: -8.5555725, y: 19.10289}
+        - {x: -8.5555725, y: -29.89711}
+        - {x: 62.444427, y: -29.89711}
+        - {x: 62.444427, y: -1.89711}
+        - {x: 58.444427, y: -0.89711}
+    - name: attack_1_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 4
+        width: 70
+        height: 82
+      alignment: 9
+      pivot: {x: 0.15165973, y: 0.36816207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.61618, y: 32.81071}
+        - {x: -10.61618, y: -30.18929}
+        - {x: 59.38382, y: -30.18929}
+        - {x: 59.38382, y: 11.810711}
+        - {x: 47.38382, y: 32.81071}
+    - name: attack_1_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 4
+        width: 53
+        height: 82
+      alignment: 9
+      pivot: {x: 0.2768799, y: 0.3645989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.32538, y: -14.89711}
+        - {x: 38.32538, y: -13.89711}
+        - {x: 38.32538, y: 18.10289}
+        - {x: 20.325378, y: 37.10289}
+        - {x: -11.674622, y: 37.10289}
+        - {x: -13.674622, y: 35.10289}
+        - {x: -14.674622, y: 30.10289}
+        - {x: -14.674622, y: -23.89711}
+        - {x: -10.674622, y: -29.89711}
+        - {x: 11.325378, y: -29.89711}
+        - {x: 15.325378, y: -28.89711}
+        - {x: 17.325378, y: -26.89711}
+        - {x: 17.325378, y: -12.89711}
+        - {x: 22.325378, y: -13.89711}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 93402ee9be7a1d54b8bf5ea8f65bbaba
+timeCreated: 1473441369
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: downed_0
+    21300002: downed_1
+    21300004: downed_2
+    21300006: downed_3
+    21300008: downed_4
+    21300010: downed_5
+    21300012: downed_6
+    21300014: downed_7
+    21300016: downed_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: downed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 17}
+        - {x: 16, y: 14}
+        - {x: 16, y: 18}
+        - {x: 14, y: 25}
+        - {x: 7, y: 27}
+        - {x: -21, y: 27}
+        - {x: -32, y: 21}
+        - {x: -32, y: 5}
+        - {x: -13, y: -25}
+        - {x: 2, y: -27}
+        - {x: 21, y: -27}
+        - {x: 32, y: -3}
+        - {x: 32, y: 20}
+        - {x: 26, y: 22}
+    - name: downed_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 19}
+        - {x: -31, y: 19}
+        - {x: -38, y: 14}
+        - {x: -38, y: 0}
+        - {x: -18, y: -19}
+        - {x: -6, y: -27}
+        - {x: 30, y: -27}
+        - {x: 38, y: -10}
+        - {x: 38, y: 13}
+        - {x: 31, y: 17}
+    - name: downed_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 27}
+        - {x: -25.5, y: 18}
+        - {x: -25.5, y: 15}
+        - {x: -22.5, y: 12}
+        - {x: -25.5, y: 13}
+        - {x: -29.5, y: 13}
+        - {x: -37.5, y: 7}
+        - {x: -41.5, y: -3}
+        - {x: -41.5, y: -14}
+        - {x: -36.5, y: -24}
+        - {x: 31.5, y: -24}
+        - {x: 41.5, y: -15}
+        - {x: 41.5, y: 6}
+        - {x: 14.5, y: 27}
+    - name: downed_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 88
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: -11}
+        - {x: 44, y: -2}
+        - {x: 37, y: 9}
+        - {x: 13, y: 27}
+        - {x: -33, y: 27}
+        - {x: -43, y: 24}
+        - {x: -44, y: 21}
+        - {x: -44, y: -13}
+        - {x: -35, y: -23}
+        - {x: -20, y: -23}
+        - {x: -19, y: -22}
+        - {x: -19, y: -18}
+        - {x: 23, y: -18}
+        - {x: 38, y: -16}
+    - name: downed_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 89
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 17}
+        - {x: -44.5, y: -1}
+        - {x: -44.5, y: -16}
+        - {x: -39.5, y: -24}
+        - {x: 44.5, y: -24}
+        - {x: 44.5, y: 15}
+        - {x: 43.5, y: 17}
+    - name: downed_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 16}
+        - {x: 23, y: 12}
+        - {x: 23, y: 8}
+        - {x: 23, y: 10}
+        - {x: 20, y: 13}
+        - {x: 4, y: 15}
+        - {x: -6, y: 16}
+        - {x: -14, y: 16}
+        - {x: -15, y: 5}
+        - {x: -14, y: 1}
+        - {x: -27, y: -3}
+        - {x: -38, y: -9}
+        - {x: -38, y: -19}
+        - {x: -36, y: -26}
+        - {x: 38, y: -26}
+        - {x: 38, y: 12}
+        - {x: 30, y: 16}
+    - name: downed_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 0
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 16}
+        - {x: -31, y: 1}
+        - {x: -38, y: -8}
+        - {x: -38, y: -21}
+        - {x: -30, y: -26}
+        - {x: 29, y: -26}
+        - {x: 38, y: -23}
+        - {x: 38, y: 10}
+        - {x: 30, y: 16}
+    - name: downed_7
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 16}
+        - {x: -31, y: 1}
+        - {x: -38, y: -8}
+        - {x: -38, y: -21}
+        - {x: -30, y: -26}
+        - {x: 29, y: -26}
+        - {x: 38, y: -23}
+        - {x: 38, y: 10}
+        - {x: 30, y: 16}
+    - name: downed_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 17}
+        - {x: -10, y: 10}
+        - {x: -17, y: 4}
+        - {x: -38, y: -8}
+        - {x: -38, y: -25}
+        - {x: -35, y: -26}
+        - {x: 38, y: -26}
+        - {x: 38, y: 11}
+        - {x: 33, y: 17}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: ac3599f8ed722204098f807b7429f411
+timeCreated: 1472692710
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: slide_0
+    21300002: slide_1
+    21300004: slide_2
+    21300006: slide_3
+    21300008: slide_4
+    21300010: slide_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: slide_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 34
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 31}
+        - {x: -17, y: -17}
+        - {x: -4, y: -31}
+        - {x: 13, y: -31}
+        - {x: 17, y: -23}
+        - {x: 17, y: 30}
+        - {x: 13, y: 31}
+    - name: slide_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 3
+        width: 60
+        height: 42
+      alignment: 9
+      pivot: {x: 0.2259945, y: 0.72565144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5596695, y: -30.47736}
+        - {x: 46.44033, y: -30.47736}
+        - {x: 46.44033, y: -8.47736}
+        - {x: 32.44033, y: 11.52264}
+        - {x: -13.5596695, y: 11.52264}
+        - {x: -13.5596695, y: -29.47736}
+    - name: slide_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 3
+        width: 60
+        height: 42
+      alignment: 9
+      pivot: {x: 0.22921804, y: 0.68420523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.753082, y: 13.26338}
+        - {x: -13.753082, y: 11.26338}
+        - {x: -13.753082, y: -12.73662}
+        - {x: -10.753082, y: -16.73662}
+        - {x: -13.753082, y: -16.73662}
+        - {x: -13.753082, y: -26.73662}
+        - {x: -12.753082, y: -28.73662}
+        - {x: 46.246918, y: -28.73662}
+        - {x: 46.246918, y: -8.73662}
+        - {x: 20.246918, y: 13.26338}
+    - name: slide_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3
+        width: 59
+        height: 42
+      alignment: 9
+      pivot: {x: 0.21807215, y: 0.67960006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.866257, y: 13.456797}
+        - {x: -12.866257, y: -28.543203}
+        - {x: 46.133743, y: -28.543203}
+        - {x: 46.133743, y: -8.543203}
+        - {x: 22.133743, y: 13.456797}
+    - name: slide_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 3
+        width: 55
+        height: 45
+      alignment: 9
+      pivot: {x: 0.24328475, y: 0.6805213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.380661, y: 14.376541}
+        - {x: -13.380661, y: 9.376541}
+        - {x: -13.380661, y: -29.623459}
+        - {x: -11.380661, y: -30.623459}
+        - {x: 40.61934, y: -30.623459}
+        - {x: 41.61934, y: -29.623459}
+        - {x: 41.61934, y: -11.623459}
+        - {x: 15.619339, y: 14.376541}
+    - name: slide_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3
+        width: 34
+        height: 52
+      alignment: 9
+      pivot: {x: 0.33502737, y: 0.570671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.39093, y: 22.325108}
+        - {x: -11.39093, y: 17.325108}
+        - {x: -11.39093, y: -24.674892}
+        - {x: -3.3909302, y: -29.674892}
+        - {x: 16.60907, y: -29.674892}
+        - {x: 22.60907, y: -25.674892}
+        - {x: 22.60907, y: 16.325108}
+        - {x: 20.60907, y: 22.325108}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

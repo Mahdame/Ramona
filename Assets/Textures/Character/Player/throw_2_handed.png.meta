@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: bc7dd78645be9c84cbfac4dcfea9bd20
+timeCreated: 1473264243
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: throw_2_handed_0
+    21300002: throw_2_handed_1
+    21300004: throw_2_handed_2
+    21300006: throw_2_handed_3
+    21300008: throw_2_handed_4
+    21300010: throw_2_handed_5
+    21300012: throw_2_handed_6
+    21300014: throw_2_handed_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: throw_2_handed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.6000004, y: 31}
+        - {x: -17.6, y: 28}
+        - {x: -17.6, y: -33}
+        - {x: -16.6, y: -34}
+        - {x: 25.4, y: -34}
+        - {x: 26.4, y: -29}
+        - {x: 26.4, y: 24}
+        - {x: 24.4, y: 31}
+    - name: throw_2_handed_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 50
+        height: 68
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 23}
+        - {x: -15, y: 18}
+        - {x: -15, y: -20}
+        - {x: -13, y: -20}
+        - {x: -10, y: -21}
+        - {x: -15, y: -20}
+        - {x: -15, y: -34}
+        - {x: 30, y: -34}
+        - {x: 35, y: -33}
+        - {x: 35, y: 23}
+    - name: throw_2_handed_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 51
+        height: 68
+      alignment: 9
+      pivot: {x: 0.31, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.8099976, y: 22}
+        - {x: -15.809998, y: 18}
+        - {x: -15.809998, y: -34}
+        - {x: 26.190002, y: -34}
+        - {x: 35.190002, y: -14}
+        - {x: 35.190002, y: 20}
+        - {x: 34.190002, y: 22}
+    - name: throw_2_handed_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 50
+        height: 68
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 26}
+        - {x: 34, y: 31}
+        - {x: 0, y: 31}
+        - {x: -15, y: 14}
+        - {x: -15, y: -17}
+        - {x: -11, y: -23}
+        - {x: 17, y: -23}
+        - {x: 28, y: -10}
+        - {x: 28, y: -6}
+        - {x: 35, y: -3}
+    - name: throw_2_handed_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 45
+        height: 68
+      alignment: 9
+      pivot: {x: 0.35, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.75, y: -10}
+        - {x: -14.75, y: -13}
+        - {x: -2.75, y: -17}
+        - {x: 12.25, y: -17}
+        - {x: 25.25, y: -11}
+        - {x: 29.25, y: -2}
+        - {x: 29.25, y: 34}
+        - {x: -1.75, y: 34}
+        - {x: -15.75, y: 29}
+    - name: throw_2_handed_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.600006, y: 34}
+        - {x: -17.600006, y: 16}
+        - {x: -17.600006, y: -15}
+        - {x: -8.600006, y: -27}
+        - {x: 26.399994, y: -27}
+        - {x: 26.399994, y: 32}
+        - {x: 22.399994, y: 34}
+    - name: throw_2_handed_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 39
+        height: 68
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.450012, y: -29}
+        - {x: 20.450012, y: -28}
+        - {x: 21.450012, y: -26}
+        - {x: 21.450012, y: 29}
+        - {x: 16.450012, y: 34}
+        - {x: -10.549988, y: 34}
+        - {x: -12.549988, y: 33}
+        - {x: -17.549988, y: 5}
+        - {x: -17.549988, y: -20}
+        - {x: -6.549988, y: -34}
+        - {x: 2.4500122, y: -34}
+        - {x: 4.450012, y: -33}
+        - {x: 6.450012, y: -18}
+        - {x: 6.450012, y: -16}
+        - {x: 7.450012, y: -25}
+    - name: throw_2_handed_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -21, y: 0}
+        - {x: -21, y: -22}
+        - {x: -17, y: -34}
+        - {x: 15, y: -34}
+        - {x: 21, y: -16}
+        - {x: 21, y: 20}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

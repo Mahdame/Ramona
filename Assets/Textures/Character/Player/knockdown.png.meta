@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: e7796205902820743893f0681dc03198
+timeCreated: 1472834180
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: knockdown_0
+    21300002: knockdown_1
+    21300004: knockdown_2
+    21300006: knockdown_3
+    21300008: knockdown_4
+    21300010: knockdown_5
+    21300012: knockdown_6
+    21300014: knockdown_7
+    21300016: knockdown_8
+    21300018: knockdown_9
+    21300020: knockdown_10
+    21300022: knockdown_11
+    21300024: knockdown_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: knockdown_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 39
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4621038, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.977951, y: -26}
+        - {x: 19.977951, y: -24}
+        - {x: 20.977951, y: -14}
+        - {x: 20.977951, y: 29}
+        - {x: 7.977951, y: 33}
+        - {x: -7.022049, y: 33}
+        - {x: -11.022049, y: 25}
+        - {x: -15.022049, y: 12}
+        - {x: -18.022049, y: -1}
+        - {x: -18.022049, y: -20}
+        - {x: -8.022049, y: -33}
+        - {x: 1.977951, y: -33}
+        - {x: 2.977951, y: -31}
+        - {x: 9.977951, y: -33}
+        - {x: 12.977951, y: -33}
+    - name: knockdown_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 50
+        height: 85
+      alignment: 9
+      pivot: {x: 0.7069136, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.34568, y: 28.5}
+        - {x: -35.34568, y: 22.5}
+        - {x: -35.34568, y: 1.5}
+        - {x: -28.34568, y: -10.5}
+        - {x: -11.34568, y: -31.5}
+        - {x: 14.65432, y: -31.5}
+        - {x: 14.65432, y: 19.5}
+        - {x: -14.34568, y: 28.5}
+    - name: knockdown_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4
+        width: 71
+        height: 85
+      alignment: 9
+      pivot: {x: 0.7428563, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.742798, y: 31.5}
+        - {x: -52.742798, y: 21.5}
+        - {x: -52.742798, y: 4.5}
+        - {x: -45.742798, y: -11.5}
+        - {x: -24.742798, y: -15.5}
+        - {x: 18.257202, y: -15.5}
+        - {x: 18.257202, y: 9.5}
+        - {x: 0.25720215, y: 31.5}
+    - name: knockdown_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 4
+        width: 67
+        height: 85
+      alignment: 9
+      pivot: {x: 0.8602974, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.639923, y: 37.5}
+        - {x: -52.639923, y: 34.5}
+        - {x: -57.639923, y: 27.5}
+        - {x: -57.639923, y: -2.5}
+        - {x: 2.360077, y: -2.5}
+        - {x: 9.360077, y: 4.5}
+        - {x: 9.360077, y: 31.5}
+        - {x: 2.360077, y: 37.5}
+    - name: knockdown_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4
+        width: 68
+        height: 85
+      alignment: 9
+      pivot: {x: 0.87673366, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.61789, y: 42.5}
+        - {x: -59.61789, y: 21.5}
+        - {x: -59.61789, y: -3.5}
+        - {x: -58.61789, y: -6.5}
+        - {x: -35.61789, y: -6.5}
+        - {x: 8.382111, y: 15.5}
+        - {x: 8.382111, y: 35.5}
+        - {x: -20.61789, y: 42.5}
+    - name: knockdown_5
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 4
+        width: 60
+        height: 85
+      alignment: 9
+      pivot: {x: 0.836645, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.1987, y: 42.5}
+        - {x: -50.1987, y: -12.5}
+        - {x: -21.1987, y: -12.5}
+        - {x: 9.8013, y: 16.5}
+        - {x: 9.8013, y: 42.5}
+    - name: knockdown_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 4
+        width: 60
+        height: 85
+      alignment: 9
+      pivot: {x: 0.8202235, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.21341, y: 34.5}
+        - {x: -42.21341, y: 33.5}
+        - {x: -49.21341, y: 18.5}
+        - {x: -49.21341, y: -15.5}
+        - {x: -46.21341, y: -22.5}
+        - {x: -9.213409, y: -22.5}
+        - {x: 10.786591, y: 8.5}
+        - {x: 10.786591, y: 34.5}
+    - name: knockdown_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 4
+        width: 46
+        height: 85
+      alignment: 9
+      pivot: {x: 0.7249059, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.345673, y: 1.5}
+        - {x: -33.345673, y: -7.5}
+        - {x: -33.345673, y: -31.5}
+        - {x: -20.345673, y: -40.5}
+        - {x: 4.6543274, y: -40.5}
+        - {x: 12.654327, y: -36.5}
+        - {x: 12.654327, y: -2.5}
+        - {x: 5.6543274, y: 1.5}
+    - name: knockdown_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 4
+        width: 67
+        height: 85
+      alignment: 9
+      pivot: {x: 0.8382377, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.161926, y: -3.5}
+        - {x: -56.161926, y: -37.5}
+        - {x: 7.8380737, y: -37.5}
+        - {x: 10.838074, y: -31.5}
+        - {x: 10.838074, y: -4.5}
+        - {x: 9.838074, y: -3.5}
+    - name: knockdown_9
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 4
+        width: 65
+        height: 85
+      alignment: 9
+      pivot: {x: 0.8865413, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.625183, y: -3.5}
+        - {x: -57.625183, y: -7.5}
+        - {x: -57.625183, y: -37.5}
+        - {x: -53.625183, y: -38.5}
+        - {x: -15.625183, y: -38.5}
+        - {x: -8.625183, y: -36.5}
+        - {x: 7.374817, y: -29.5}
+        - {x: 7.374817, y: -3.5}
+    - name: knockdown_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 4
+        width: 68
+        height: 85
+      alignment: 9
+      pivot: {x: 0.90571237, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.58844, y: -9.5}
+        - {x: -53.58844, y: -9.5}
+        - {x: -61.58844, y: -16.5}
+        - {x: -61.58844, y: -41.5}
+        - {x: 6.41156, y: -41.5}
+        - {x: 6.41156, y: -18.5}
+        - {x: -29.58844, y: -10.5}
+    - name: knockdown_11
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 4
+        width: 68
+        height: 85
+      alignment: 9
+      pivot: {x: 0.898468, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.095825, y: -8.5}
+        - {x: -61.095825, y: -15.5}
+        - {x: -61.095825, y: -40.5}
+        - {x: -52.095825, y: -42.5}
+        - {x: -1.0958252, y: -42.5}
+        - {x: 6.904175, y: -40.5}
+        - {x: 6.904175, y: -18.5}
+        - {x: -41.095825, y: -8.5}
+    - name: knockdown_12
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 4
+        width: 68
+        height: 85
+      alignment: 9
+      pivot: {x: 0.898468, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.095825, y: -8.5}
+        - {x: -54.095825, y: -8.5}
+        - {x: -61.095825, y: -13.5}
+        - {x: -61.095825, y: -42.5}
+        - {x: 6.904175, y: -42.5}
+        - {x: 6.904175, y: -21.5}
+        - {x: 5.904175, y: -20.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: 99172a12c0f9b4b4f94c5e27db7b813e
+timeCreated: 1473252466
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Throwing Stuff_0
+    21300002: Throwing Stuff_1
+    21300004: Throwing Stuff_2
+    21300006: Throwing Stuff_3
+    21300008: Throwing Stuff_4
+    21300010: Throwing Stuff_5
+    21300012: Throwing Stuff_6
+    21300014: Throwing Stuff_7
+    21300016: Throwing Stuff_8
+    21300018: Throwing Stuff_9
+    21300020: Throwing Stuff_10
+    21300022: Throwing Stuff_11
+    21300024: Throwing Stuff_12
+    21300026: Throwing Stuff_13
+    21300028: Throwing Stuff_14
+    21300030: Throwing Stuff_15
+    21300032: Throwing Stuff_16
+    21300034: Throwing Stuff_17
+    21300036: Throwing Stuff_18
+    21300038: Throwing Stuff_19
+    21300040: Throwing Stuff_20
+    21300042: Throwing Stuff_21
+    21300044: Throwing Stuff_22
+    21300046: Throwing Stuff_23
+    21300048: Throwing Stuff_24
+    21300050: Throwing Stuff_25
+    21300052: Throwing Stuff_26
+    21300054: Throwing Stuff_27
+    21300056: Throwing Stuff_28
+    21300058: Throwing Stuff_29
+    21300060: Throwing Stuff_30
+    21300062: Throwing Stuff_31
+    21300064: Throwing Stuff_32
+    21300066: Throwing Stuff_33
+    21300068: Throwing Stuff_34
+    21300070: Throwing Stuff_35
+    21300072: Throwing Stuff_36
+    21300074: Throwing Stuff_37
+    21300076: Throwing Stuff_38
+    21300078: Throwing Stuff_39
+    21300080: Throwing Stuff_40
+    21300082: Throwing Stuff_41
+    21300084: Throwing Stuff_42
+    21300086: Throwing Stuff_43
+    21300088: Throwing Stuff_44
+    21300090: Throwing Stuff_45
+    21300092: Throwing Stuff_46
+    21300094: Throwing Stuff_47
+    21300096: Throwing Stuff_48
+    21300098: Throwing Stuff_49
+    21300100: Throwing Stuff_50
+    21300102: Throwing Stuff_51
+    21300104: Throwing Stuff_52
+    21300106: Throwing Stuff_53
+    21300108: Throwing Stuff_54
+    21300110: Throwing Stuff_55
+    21300112: Throwing Stuff_56
+    21300114: Throwing Stuff_57
+    21300116: Throwing Stuff_58
+    21300118: Throwing Stuff_59
+    21300120: Throwing Stuff_60
+    21300122: Throwing Stuff_61
+    21300124: Throwing Stuff_62
+    21300126: Throwing Stuff_63
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Throwing Stuff_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 183
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 182
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 185
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 173
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 172
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 173
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 181
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 185
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 186
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 183
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 183
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 183
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_12
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 183
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 183
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 183
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_15
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 184
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 144
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 144
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 144
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 142
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 141
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 144
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 144
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 144
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_24
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 143
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 17}
+        - {x: -16.5, y: 14}
+        - {x: -16.5, y: -17}
+        - {x: 10.5, y: -17}
+        - {x: 16.5, y: -10}
+        - {x: 16.5, y: 9}
+        - {x: 10.5, y: 17}
+    - name: Throwing Stuff_25
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -12}
+        - {x: -13, y: -15}
+        - {x: -11, y: -17}
+        - {x: 17, y: -17}
+        - {x: 17, y: 12}
+        - {x: 14, y: 17}
+        - {x: -8, y: 17}
+        - {x: -17, y: 7}
+    - name: Throwing Stuff_26
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 143
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 16.5}
+        - {x: -17, y: -14.5}
+        - {x: -16, y: -16.5}
+        - {x: 9, y: -16.5}
+        - {x: 17, y: -10.5}
+        - {x: 17, y: 10.5}
+        - {x: 12, y: 16.5}
+    - name: Throwing Stuff_27
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -17, y: 10}
+        - {x: -17, y: -16}
+        - {x: -15, y: -17}
+        - {x: 13, y: -17}
+        - {x: 17, y: -12}
+        - {x: 17, y: 8}
+        - {x: 6, y: 17}
+    - name: Throwing Stuff_28
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 143
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 17}
+        - {x: -16.5, y: -14}
+        - {x: -11.5, y: -17}
+        - {x: 16.5, y: -17}
+        - {x: 16.5, y: 17}
+    - name: Throwing Stuff_29
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -17, y: 15}
+        - {x: -17, y: -13}
+        - {x: -12, y: -17}
+        - {x: 8, y: -17}
+        - {x: 17, y: -6}
+        - {x: 17, y: 15}
+        - {x: 10, y: 17}
+    - name: Throwing Stuff_30
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 143
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16.5}
+        - {x: -17, y: 14.5}
+        - {x: -17, y: -10.5}
+        - {x: -12, y: -16.5}
+        - {x: 13, y: -16.5}
+        - {x: 17, y: -11.5}
+        - {x: 17, y: 12.5}
+        - {x: 15, y: 16.5}
+    - name: Throwing Stuff_31
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 143
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17}
+        - {x: -17, y: -12}
+        - {x: -16, y: -16}
+        - {x: -14, y: -17}
+        - {x: 14, y: -17}
+        - {x: 17, y: -16}
+        - {x: 17, y: 17}
+    - name: Throwing Stuff_32
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 105
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_33
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 112
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 112
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 101
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_36
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 101
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_37
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 102
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_38
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 109
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 109
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_40
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 95
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 19}
+        - {x: -16.5, y: 18}
+        - {x: -18.5, y: 11}
+        - {x: -18.5, y: -17}
+        - {x: -14.5, y: -19}
+        - {x: 12.5, y: -19}
+        - {x: 18.5, y: -14}
+        - {x: 18.5, y: 9}
+        - {x: 6.5, y: 19}
+    - name: Throwing Stuff_41
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 95
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -18, y: 13}
+        - {x: -18, y: -9}
+        - {x: -13, y: -18}
+        - {x: 17, y: -18}
+        - {x: 18, y: -16}
+        - {x: 18, y: 18}
+    - name: Throwing Stuff_42
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 95
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18.5}
+        - {x: -19, y: 16.5}
+        - {x: -19, y: -14.5}
+        - {x: -14, y: -18.5}
+        - {x: 9, y: -18.5}
+        - {x: 19, y: -6.5}
+        - {x: 19, y: 7.5}
+        - {x: 11, y: 18.5}
+    - name: Throwing Stuff_43
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 95
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -18, y: 13}
+        - {x: -18, y: -14}
+        - {x: -17, y: -18}
+        - {x: 18, y: -18}
+        - {x: 18, y: 16}
+        - {x: 14, y: 18}
+    - name: Throwing Stuff_44
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 90
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 19}
+        - {x: -15.5, y: 19}
+        - {x: -18.5, y: 18}
+        - {x: -18.5, y: -10}
+        - {x: -8.5, y: -19}
+        - {x: 5.5, y: -19}
+        - {x: 13.5, y: -15}
+        - {x: 18.5, y: -7}
+        - {x: 18.5, y: 13}
+    - name: Throwing Stuff_45
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 95
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18}
+        - {x: -18, y: 14}
+        - {x: -18, y: -18}
+        - {x: 13, y: -18}
+        - {x: 18, y: -11}
+        - {x: 18, y: 10}
+        - {x: 9, y: 18}
+    - name: Throwing Stuff_46
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 95
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18.5}
+        - {x: -19, y: 5.5}
+        - {x: -19, y: -9.5}
+        - {x: -18, y: -16.5}
+        - {x: -11, y: -18.5}
+        - {x: 15, y: -18.5}
+        - {x: 19, y: -11.5}
+        - {x: 19, y: 11.5}
+        - {x: 14, y: 18.5}
+    - name: Throwing Stuff_47
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 95
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 18}
+        - {x: -18, y: 17}
+        - {x: -18, y: -12}
+        - {x: -13, y: -18}
+        - {x: 9, y: -18}
+        - {x: 18, y: -13}
+        - {x: 18, y: 16}
+        - {x: 13, y: 18}
+    - name: Throwing Stuff_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 72
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 72
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_50
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 73
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 66
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_52
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 61
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_53
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 65
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 71
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_55
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 72
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Throwing Stuff_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 29
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 30}
+        - {x: -22.5, y: -12}
+        - {x: -19.5, y: -25}
+        - {x: 8.5, y: -30}
+        - {x: 22.5, y: -30}
+        - {x: 22.5, y: 21}
+        - {x: 14.5, y: 30}
+    - name: Throwing Stuff_57
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 26
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 27}
+        - {x: 12.5, y: 31}
+        - {x: -15.5, y: 31}
+        - {x: -19.5, y: 23}
+        - {x: -19.5, y: -31}
+        - {x: -5.5, y: -31}
+        - {x: 9.5, y: -26}
+        - {x: 14.5, y: -15}
+        - {x: 19.5, y: 2}
+    - name: Throwing Stuff_58
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 35
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 22.5}
+        - {x: 3, y: 22.5}
+        - {x: -19, y: 11.5}
+        - {x: -30, y: -8.5}
+        - {x: -30, y: -21.5}
+        - {x: -24, y: -22.5}
+        - {x: 1, y: -22.5}
+        - {x: 30, y: -7.5}
+        - {x: 30, y: 14.5}
+        - {x: 29, y: 20.5}
+    - name: Throwing Stuff_59
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 24
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 19.5}
+        - {x: -31, y: 4.5}
+        - {x: -25, y: -9.5}
+        - {x: -15, y: -13.5}
+        - {x: 5, y: -19.5}
+        - {x: 31, y: -19.5}
+        - {x: 31, y: 17.5}
+        - {x: 21, y: 19.5}
+    - name: Throwing Stuff_60
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 9
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -30}
+        - {x: 22.5, y: -30}
+        - {x: 22.5, y: 3}
+        - {x: 17.5, y: 24}
+        - {x: -8.5, y: 30}
+        - {x: -22.5, y: 30}
+        - {x: -22.5, y: -7}
+    - name: Throwing Stuff_61
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 7
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 31}
+        - {x: -14.5, y: 29}
+        - {x: -19.5, y: 12}
+        - {x: -19.5, y: -29}
+        - {x: -17.5, y: -31}
+        - {x: 16.5, y: -31}
+        - {x: 19.5, y: -25}
+        - {x: 19.5, y: 28}
+        - {x: 18.5, y: 31}
+    - name: Throwing Stuff_62
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 15
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 22.5}
+        - {x: -30, y: 10.5}
+        - {x: -30, y: -17.5}
+        - {x: -29, y: -20.5}
+        - {x: -25, y: -22.5}
+        - {x: -4, y: -22.5}
+        - {x: 30, y: -2.5}
+        - {x: 30, y: 22.5}
+    - name: Throwing Stuff_63
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 30
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -28, y: 19}
+        - {x: -30, y: 18}
+        - {x: -31, y: 10}
+        - {x: -31, y: -12}
+        - {x: -13, y: -19}
+        - {x: 28, y: -19}
+        - {x: 31, y: -18}
+        - {x: 31, y: -5}
+        - {x: 15, y: 15}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

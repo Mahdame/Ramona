@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: ead1483b86b409e42864e32d3a92500b
+timeCreated: 1473444487
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: invoke_0
+    21300002: invoke_1
+    21300004: invoke_2
+    21300006: invoke_3
+    21300008: invoke_4
+    21300010: invoke_5
+    21300012: invoke_6
+    21300014: invoke_7
+    21300016: invoke_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: invoke_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 32}
+        - {x: -17, y: 31}
+        - {x: -17, y: -22}
+        - {x: -14, y: -33}
+        - {x: 15, y: -33}
+        - {x: 17, y: -29}
+        - {x: 17, y: 26}
+        - {x: 15, y: 32}
+    - name: invoke_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: invoke_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: invoke_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: invoke_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 42
+        height: 66
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.399994, y: 25}
+        - {x: 18.399994, y: 22}
+        - {x: 16.399994, y: 30}
+        - {x: 14.399994, y: 33}
+        - {x: -12.600006, y: 33}
+        - {x: -12.600006, y: -32}
+        - {x: -10.600006, y: -33}
+        - {x: 16.399994, y: -33}
+        - {x: 29.399994, y: 2}
+        - {x: 29.399994, y: 25}
+        - {x: 26.399994, y: 30}
+    - name: invoke_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 51
+        height: 66
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.699997, y: 9}
+        - {x: 31.699997, y: 20}
+        - {x: 31.699997, y: 32}
+        - {x: 28.699997, y: 33}
+        - {x: -15.300003, y: 33}
+        - {x: -15.300003, y: -33}
+        - {x: 14.699997, y: -33}
+        - {x: 31.699997, y: 1}
+        - {x: 31.699997, y: 5}
+        - {x: 22.699997, y: 9}
+      - - {x: 29.699997, y: 17}
+        - {x: 25.699997, y: 16}
+        - {x: 24.699997, y: 15}
+        - {x: 24.699997, y: 10}
+        - {x: 26.699997, y: 6}
+        - {x: 34.699997, y: 6}
+        - {x: 35.699997, y: 7}
+        - {x: 35.699997, y: 15}
+        - {x: 33.699997, y: 17}
+    - name: invoke_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 56
+        height: 66
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.199997, y: 12}
+        - {x: 26.199997, y: 24}
+        - {x: 11.199997, y: 33}
+        - {x: -11.800003, y: 33}
+        - {x: -16.800003, y: 25}
+        - {x: -16.800003, y: -13}
+        - {x: -11.800003, y: -33}
+        - {x: 14.199997, y: -33}
+        - {x: 26.199997, y: -6}
+        - {x: 26.199997, y: 4}
+        - {x: 24.199997, y: 10}
+      - - {x: 32.199997, y: 14}
+        - {x: 32.199997, y: 10}
+        - {x: 33.199997, y: 7}
+        - {x: 39.199997, y: 7}
+        - {x: 39.199997, y: 15}
+        - {x: 36.199997, y: 16}
+      - - {x: 27.199997, y: 30}
+        - {x: 24.199997, y: 27}
+        - {x: 24.199997, y: 26}
+        - {x: 27.199997, y: 23}
+        - {x: 28.199997, y: 23}
+        - {x: 31.199997, y: 26}
+        - {x: 31.199997, y: 27}
+        - {x: 28.199997, y: 30}
+    - name: invoke_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 56
+        height: 66
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.200012, y: 33}
+        - {x: -16.799988, y: 33}
+        - {x: -16.799988, y: -25}
+        - {x: -15.799988, y: -33}
+        - {x: 14.200012, y: -33}
+        - {x: 26.200012, y: -10}
+        - {x: 26.200012, y: 6}
+        - {x: 16.200012, y: 31}
+      - - {x: 37.200012, y: 15}
+        - {x: 34.200012, y: 12}
+        - {x: 34.200012, y: 11}
+        - {x: 37.200012, y: 8}
+        - {x: 39.200012, y: 9}
+        - {x: 39.200012, y: 14}
+        - {x: 38.200012, y: 15}
+      - - {x: 16.200012, y: 28}
+        - {x: 14.200012, y: 25}
+        - {x: 14.200012, y: 22}
+        - {x: 16.200012, y: 21}
+        - {x: 20.200012, y: 21}
+        - {x: 21.200012, y: 24}
+        - {x: 21.200012, y: 25}
+        - {x: 18.200012, y: 28}
+    - name: invoke_8
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 39
+        height: 66
+      alignment: 9
+      pivot: {x: 0.43, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.230011, y: 32}
+        - {x: -16.769989, y: 32}
+        - {x: -16.769989, y: -33}
+        - {x: 16.230011, y: -33}
+        - {x: 22.230011, y: -20}
+        - {x: 22.230011, y: 15}
+        - {x: 17.230011, y: 29}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

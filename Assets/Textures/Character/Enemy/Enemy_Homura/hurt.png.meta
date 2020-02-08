@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 2db24d089b1f7a743b4a450d86dd6524
+timeCreated: 1473190496
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hurt_0
+    21300002: hurt_1
+    21300004: hurt_2
+    21300006: hurt_3
+    21300008: hurt_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hurt_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 12
+        width: 67
+        height: 107
+      alignment: 9
+      pivot: {x: 0.37, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.21, y: -37.36}
+        - {x: 42.21, y: -5.3600006}
+        - {x: 42.21, y: 28.64}
+        - {x: 41.21, y: 35.64}
+        - {x: 24.21, y: 45.64}
+        - {x: -4.790001, y: 55.64}
+        - {x: -19.79, y: 55.64}
+        - {x: -24.79, y: 51.64}
+        - {x: -24.79, y: -19.36}
+        - {x: -11.790001, y: -48.36}
+        - {x: -9.790001, y: -51.36}
+        - {x: -1.7900009, y: -51.36}
+        - {x: -0.7900009, y: -50.36}
+        - {x: 4.209999, y: -51.36}
+        - {x: 21.21, y: -51.36}
+    - name: hurt_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 12
+        width: 62
+        height: 107
+      alignment: 9
+      pivot: {x: 0.6, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.199997, y: 44.64}
+        - {x: -37.199997, y: 39.64}
+        - {x: -37.199997, y: -37.36}
+        - {x: -30.199997, y: -51.36}
+        - {x: 18.800003, y: -51.36}
+        - {x: 24.800003, y: -9.360001}
+        - {x: 24.800003, y: 29.64}
+        - {x: 10.800003, y: 44.64}
+    - name: hurt_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 12
+        width: 63
+        height: 107
+      alignment: 9
+      pivot: {x: 0.67, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.210007, y: 43.64}
+        - {x: -42.210007, y: 29.64}
+        - {x: -42.210007, y: -13.360001}
+        - {x: -15.210007, y: -51.36}
+        - {x: 16.789993, y: -51.36}
+        - {x: 18.789993, y: -50.36}
+        - {x: 20.789993, y: -36.36}
+        - {x: 20.789993, y: 19.64}
+        - {x: 7.7899933, y: 43.64}
+    - name: hurt_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 12
+        width: 57
+        height: 107
+      alignment: 9
+      pivot: {x: 0.67, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.190002, y: 46.64}
+        - {x: -38.190002, y: -30.36}
+        - {x: -31.190002, y: -51.36}
+        - {x: 18.809998, y: -51.36}
+        - {x: 18.809998, y: 43.64}
+        - {x: 9.809998, y: 46.64}
+    - name: hurt_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 12
+        width: 46
+        height: 107
+      alignment: 9
+      pivot: {x: 0.51, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.459991, y: 53.64}
+        - {x: -23.459991, y: -44.36}
+        - {x: -22.459991, y: -51.36}
+        - {x: 20.540009, y: -51.36}
+        - {x: 22.540009, y: -26.36}
+        - {x: 22.540009, y: 53.64}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

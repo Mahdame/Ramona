@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: a2f61d6f23595084791fff42bddc0d07
+timeCreated: 1472833199
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: attack_0
+    21300002: attack_1
+    21300004: attack_2
+    21300006: attack_3
+    21300008: attack_4
+    21300010: attack_5
+    21300012: attack_6
+    21300014: attack_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: attack_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 60
+        height: 75
+      alignment: 9
+      pivot: {x: 0.6439154, y: 0.40192428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.365074, y: 35.85568}
+        - {x: -32.634926, y: 35.85568}
+        - {x: -38.634926, y: 23.855679}
+        - {x: -38.634926, y: 7.8556786}
+        - {x: -30.634926, y: 4.8556786}
+        - {x: -6.634926, y: -30.144321}
+        - {x: 16.365074, y: -30.144321}
+        - {x: 19.365074, y: -27.144321}
+        - {x: 19.365074, y: -21.144321}
+        - {x: 21.365074, y: -0.14432144}
+    - name: attack_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 4
+        width: 60
+        height: 75
+      alignment: 9
+      pivot: {x: 0.47867927, y: 0.41045257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.720757, y: 44.216057}
+        - {x: -28.720757, y: -2.7839432}
+        - {x: -20.720757, y: -30.783943}
+        - {x: 22.279243, y: -30.783943}
+        - {x: 31.279243, y: -0.7839432}
+        - {x: 31.279243, y: 35.216057}
+        - {x: 17.279243, y: 44.216057}
+    - name: attack_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4
+        width: 38
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4326714, y: 0.41898093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.441513, y: 43.57643}
+        - {x: -16.441513, y: 29.576431}
+        - {x: -16.441513, y: -29.423569}
+        - {x: -15.441513, y: -31.423569}
+        - {x: 21.558487, y: -31.423569}
+        - {x: 21.558487, y: 43.57643}
+    - name: attack_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 4
+        width: 99
+        height: 75
+      alignment: 9
+      pivot: {x: 0.34170932, y: 0.43177336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.829224, y: 29.616997}
+        - {x: -33.829224, y: -14.383003}
+        - {x: -21.829224, y: -32.383003}
+        - {x: 44.170776, y: -32.383003}
+        - {x: 65.17078, y: -24.383003}
+        - {x: 65.17078, y: 29.616997}
+    - name: attack_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 4
+        width: 74
+        height: 75
+      alignment: 9
+      pivot: {x: 0.13264836, y: 0.44456583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.18402, y: -0.34243774}
+        - {x: 64.18402, y: 3.6575623}
+        - {x: 64.18402, y: 27.657562}
+        - {x: -9.815979, y: 27.657562}
+        - {x: -9.815979, y: -27.342438}
+        - {x: -7.815979, y: -33.342438}
+        - {x: 27.184021, y: -33.342438}
+        - {x: 31.184021, y: -32.342438}
+        - {x: 23.184021, y: -16.342438}
+    - name: attack_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 4
+        width: 73
+        height: 75
+      alignment: 9
+      pivot: {x: 0.13637887, y: 0.44456583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.044342, y: 28.657562}
+        - {x: -5.955658, y: 28.657562}
+        - {x: -9.955658, y: 25.657562}
+        - {x: -9.955658, y: -33.342438}
+        - {x: 26.044342, y: -33.342438}
+        - {x: 28.044342, y: -31.342438}
+        - {x: 28.044342, y: -28.342438}
+        - {x: 63.044342, y: -0.34243774}
+    - name: attack_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 4
+        width: 62
+        height: 75
+      alignment: 9
+      pivot: {x: 0.15955476, y: 0.46162248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.892395, y: 30.378315}
+        - {x: -9.892395, y: 27.378315}
+        - {x: -9.892395, y: -34.621685}
+        - {x: 32.107605, y: -34.621685}
+        - {x: 52.107605, y: -5.621685}
+        - {x: 52.107605, y: 19.378315}
+        - {x: 40.107605, y: 30.378315}
+    - name: attack_7
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 4
+        width: 52
+        height: 75
+      alignment: 9
+      pivot: {x: 0.27859205, y: 0.46588662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.513214, y: 32.058502}
+        - {x: -14.486786, y: 32.058502}
+        - {x: -14.486786, y: -34.941498}
+        - {x: 7.513214, y: -34.941498}
+        - {x: 15.513214, y: -33.941498}
+        - {x: 17.513214, y: -31.941498}
+        - {x: 37.513214, y: -18.941498}
+        - {x: 37.513214, y: 15.058502}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

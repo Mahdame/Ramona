@@ -1,0 +1,79 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   NVIDIA
+    VRAM:     4018 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\git\Ramona\BUILD\Teste_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\git\Ramona\BUILD\Teste_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\git\Ramona\BUILD\Teste_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\git\Ramona\BUILD\Teste_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\git\Ramona\BUILD\Teste_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\git\Ramona\BUILD\Teste_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\git\Ramona\BUILD\Teste_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\git\Ramona\BUILD\Teste_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.067 seconds
+Platform assembly: C:\git\Ramona\BUILD\Teste_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\git\Ramona\BUILD\Teste_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.802800 ms
+Load
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.753600 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1128.
+Total: 0.397400 ms (FindLiveObjects: 0.063100 ms CreateObjectMapping: 0.058200 ms MarkObjects: 0.239800 ms  DeleteObjects: 0.019400 ms)
+
+Enemy taking damage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Enemy taking damage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Enemy taking damage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Enemy taking damage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Enemy taking damage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Enemy taking damage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Enemy taking damage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Enemy taking damage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.429900 ms
+
+Unloading 329 unused Assets to reduce memory usage. Loaded Objects now: 289.
+Total: 0.409500 ms (FindLiveObjects: 0.024200 ms CreateObjectMapping: 0.014300 ms MarkObjects: 0.168300 ms  DeleteObjects: 0.202200 ms)
+
+Quit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 31fc -> priority: 1 
+  Thread -> id: 4da4 -> priority: 1 

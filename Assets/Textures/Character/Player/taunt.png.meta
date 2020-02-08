@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 4c82d358b0e53964891ba6b48e372ccd
+timeCreated: 1473260321
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: taunt_0
+    21300002: taunt_1
+    21300004: taunt_2
+    21300006: taunt_3
+    21300008: taunt_4
+    21300010: taunt_5
+    21300012: taunt_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: taunt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: taunt_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 45
+        height: 67
+      alignment: 9
+      pivot: {x: 0.33, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.849998, y: 28.830002}
+        - {x: -14.849998, y: -34.17}
+        - {x: 30.150002, y: -34.17}
+        - {x: 30.150002, y: 18.830002}
+        - {x: 15.150002, y: 28.830002}
+    - name: taunt_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 42
+        height: 67
+      alignment: 9
+      pivot: {x: 0.33, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.860001, y: 29.830002}
+        - {x: -13.860001, y: 22.830002}
+        - {x: -13.860001, y: -34.17}
+        - {x: 28.14, y: -34.17}
+        - {x: 28.14, y: 17.830002}
+        - {x: 6.1399994, y: 29.830002}
+    - name: taunt_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 42
+        height: 67
+      alignment: 9
+      pivot: {x: 0.33, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.14, y: 27.830002}
+        - {x: 4.1399994, y: 29.830002}
+        - {x: -8.860001, y: 29.830002}
+        - {x: -13.860001, y: 23.830002}
+        - {x: -13.860001, y: -34.17}
+        - {x: 27.14, y: -34.17}
+        - {x: 27.14, y: -28.169998}
+        - {x: 28.14, y: -25.169998}
+        - {x: 28.14, y: 15.830002}
+    - name: taunt_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 33
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: -7.169998}
+        - {x: 5.5, y: -8.169998}
+        - {x: 6.5, y: -7.169998}
+        - {x: 9.5, y: -10.169998}
+        - {x: 14.5, y: -11.169998}
+        - {x: 16.5, y: -11.169998}
+        - {x: 16.5, y: 4.830002}
+        - {x: 14.5, y: 19.830002}
+        - {x: 10.5, y: 31.830002}
+        - {x: -13.5, y: 31.830002}
+        - {x: -16.5, y: 30.830002}
+        - {x: -16.5, y: -34.17}
+        - {x: 5.5, y: -34.17}
+        - {x: 12.5, y: -31.169998}
+        - {x: 13.5, y: -28.169998}
+        - {x: 14.5, y: -15.169998}
+        - {x: 7.5, y: -8.169998}
+    - name: taunt_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: taunt_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
